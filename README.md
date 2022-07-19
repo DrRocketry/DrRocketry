@@ -3,8 +3,4 @@
 - 🌱 Learning: Amateur/Experimental Rocketry Structures/Avionics/Propulsion/Recovery Systems...
 - 💞️ Collaboration: Amateur/Experimental Rocketry Structures/Avionics/Propulsion/Recovery Systems...
 -
--
--
--
--
 - 📫 Email: jp@drrocket.org | jp@roguex.org
